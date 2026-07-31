@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.vite/
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+.wrangler/
+.dev.vars
+resultados/
+*.pdf
+*.csv
+*.xlsx
+*.zip
